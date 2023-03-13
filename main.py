@@ -1,1 +1,1 @@
-print("Ya dodik")
+print("MAX dodik")
